@@ -6,3 +6,4 @@ b1 branch file1 commit 5
 b1 branch file1 commit 6
 b1 branch file1 commit 7
 b1.1 branch file1 commit 7
+b1.1 branch file1 commit 8
