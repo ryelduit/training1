@@ -7,3 +7,4 @@ b1 branch file1 commit 6
 main branch file1 commit 7
 b1 branch file1 commit 7
 b1 branch file1 commit 8
+main branch file1 commit 9
