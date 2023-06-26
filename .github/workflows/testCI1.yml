@@ -9,6 +9,11 @@ on:
     branches:
     - main
   workflow_dispatch:
+    inputs:
+      environment: 
+        description: "environment name"
+        required: true
+        default: "prod"
 jobs:
   verify:
     runs-on: ubuntu-latest
