@@ -15,3 +15,4 @@ main branch file1 commit 10
 
 #new branch
 newbranch file1 commit 1
+newbranch file1 commit 2
