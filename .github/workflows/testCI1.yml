@@ -1,7 +1,7 @@
 name: testCI
 on:
   push:
-    branches: [master]
+    branches: [ main ]
 jobs:
   verify:
     runs-on: ubuntu-latest
