@@ -24,4 +24,5 @@ jobs:
       run: |
         ls -la
         cat file1.txt
+        echo "env name : ${{ inputs.environment }}
   
