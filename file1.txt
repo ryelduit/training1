@@ -12,7 +12,9 @@ b1.1 branch file1 commit 8
 b1 branch file1 commit 8
 main branch file1 commit 9
 main branch file1 commit 10
+newbranch file1 commit 3
 main branch file1 commit 11
 
 #new branch
 newbranch file1 commit 1
+newbranch file1 commit 2
