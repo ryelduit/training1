@@ -7,5 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: verify code
-      run: cat file1.txt
+      run: |
+        ls -la
+        cat file1.txt
   
